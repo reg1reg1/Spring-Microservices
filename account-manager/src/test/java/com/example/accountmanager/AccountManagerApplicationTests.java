@@ -1,4 +1,4 @@
-package com.example.accountmanager.accountmanager;
+package com.example.accountmanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
